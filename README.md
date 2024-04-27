@@ -1,1 +1,3 @@
-`TODO LIST Project`
+# Shopify Inventory Check
+
+I'm currently working with inventory visibility for our sales team for our store that we use Shopify, for online and physical store. Right now, when a customer buys something online, it's hard for our salesperson to quickly see if we also have that product in our physical store. We primarily use a drop shipping model where orders are sent directly to the supplier for fulfilment. However, we do keep some inventory in-store, and sometimes it's more efficient for the Saler to continue with the drop shipping and send the order to the supplier, than check our existing stock. 
